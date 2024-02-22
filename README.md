@@ -27,6 +27,12 @@ echo "# apple_quality" >> README.md
 - git remote add origin https://github.com/maheshpachpande/apple_quality.git
 git push -u origin main
 
+#### .gitignore created
+
+#### git pull
+
+#### create template.py
+
 #### push an existing repository from the command line
 - git remote add origin https://github.com/maheshpachpande/apple_quality.git
 - git branch -M main
