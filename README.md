@@ -33,6 +33,15 @@ git push -u origin main
 
 #### create template.py
 
+#### folder structure created
+- python template.py
+
+#### setup created
+
+#### requirements are installed
+- pip install -r requirements.txt
+
+
 #### push an existing repository from the command line
 - git remote add origin https://github.com/maheshpachpande/apple_quality.git
 - git branch -M main
